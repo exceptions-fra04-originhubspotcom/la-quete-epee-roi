@@ -1,0 +1,23 @@
+body {
+  font-family: Georgia, serif;
+  background: #3b2a1a;
+  color: white;
+  text-align: center;
+  max-width: 500px;
+  margin: 40px auto;
+}
+
+.bouton {
+  display: block;
+  margin: 15px 0;
+  padding: 12px;
+  background: #8b5a2b;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.bouton:hover {
+  background: gold;
+  color: black;
+}
